@@ -11,16 +11,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Schema.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Schema.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../TableCreater/database/Schema.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="32">
+              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connection.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TableCreater/database/connection.php">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -116,6 +116,11 @@
               <item name="oop" type="b2602c69:ProjectViewProjectNode" />
               <item name="TableCreater" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TableCreater" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,15 +173,16 @@
       <workItem from="1526475553454" duration="3966000" />
       <workItem from="1526480537541" duration="8411000" />
       <workItem from="1526558945584" duration="14293000" />
-      <workItem from="1526640072055" duration="8427000" />
+      <workItem from="1526640072055" duration="8684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58014000" />
+    <option name="totallyTimeSpent" value="58271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="-4" width="1323" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26468286" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -408,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TableCreater/database/Schema.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TableCreater/database/trait/DatabaseTrait.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -433,6 +432,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TableCreater/database/Schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
